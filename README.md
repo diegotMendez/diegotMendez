@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @diegotMendez
-- 👀 I’m interested in Back-end development
-- 🌱 I’m currently learning NodeJs/MongoDB
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in data analysis and development
+- 🌱 I’m currently learning Python/NodeJs/MongoDB
 
 <!---
 diegotMendez/diegotMendez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
